@@ -1,4 +1,4 @@
-# airflow_docker
+# airflow-docker
 Airflow Docker
 
 This project aims to walk through the utilization of airflow with docker, the project is composed by:
